@@ -1,0 +1,34 @@
+<?php
+
+use Drupal\Core\Render\BubbleableMetadata;
+use Drupal\Core\Url;
+
+function learnattack_auth_mail($key, &$message, $params) {
+  $message['body'][] = $params['body'];
+}
+
+function learnattack_auth_user_presave(Drupal\Core\Entity\EntityInterface $entity) {
+  if(!$entity->field_auth_code->value) {
+    $entity->set('field_auth_code', uniqid());
+  }
+}
+
+function learnattack_auth_mail_alter(&$message) {
+  if ($message['id']) {
+    $message['body'] =
+      str_replace('<user:auth-code>', $message['params']['account']->field_auth_code->value, $message['body']);
+  }
+}
+
+function learnattack_auth_tokens($type, $tokens, array $data, array $options, BubbleableMetadata $bubbleable_metadata) {
+  $replacements = [];
+  if ($type == 'user') {
+    foreach ($tokens as $name => $original) {
+      if ($name === 'auth-code-login-link') {
+        $replacements[$original] =
+          Url::fromRoute('learnattack_auth.login_page')->setAbsolute(TRUE)->toString();
+      }
+    }
+  }
+  return $replacements;
+}

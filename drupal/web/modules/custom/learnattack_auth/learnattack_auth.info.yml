@@ -1,0 +1,6 @@
+name: Learn Attack Auth
+type: module
+descritpion: Learn Attack authentication rule
+core: 8.x
+dependencies:
+  - block

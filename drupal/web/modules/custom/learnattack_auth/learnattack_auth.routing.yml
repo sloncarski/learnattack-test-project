@@ -1,0 +1,16 @@
+learnattack_auth.login_page:
+  path: '/learnattack/user/login'
+  defaults:
+    _form: 'Drupal\learnattack_auth\Form\LoginForm'
+    _title: 'Login Page'
+  requirements:
+    _user_is_logged_in: 'FALSE'
+  options:
+    _maintenance_access: TRUE
+learnattack_auth.register_page:
+  path: '/learnattack/user/register'
+  defaults:
+    _form: 'Drupal\learnattack_auth\Form\RegisterForm'
+    _title: 'Register Page'
+  requirements:
+    _access: 'TRUE'

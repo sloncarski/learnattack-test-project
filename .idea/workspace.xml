@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76ed5c74-8829-4602-822d-bb7d6d90b8e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/learnattack_auth.module" beforeDir="false" afterPath="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/learnattack_auth.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/learnattack_auth.routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/learnattack_auth.routing.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Form/LoginForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Form/LoginForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Form/RegisterForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Form/RegisterForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Plugin/Block/LoginBlock.php" beforeDir="false" afterPath="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Plugin/Block/LoginBlock.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Services/UserService.php" beforeDir="false" afterPath="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Services/UserService.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/drupal/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Form/LoginForm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="81" column="28" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+              <folding>
+                <element signature="e#48#119#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Plugin/Block/LoginBlock.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+              <folding>
+                <element signature="e#56#88#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/learnattack_auth.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+              <folding>
+                <element signature="e#7#49#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/learnattack_auth.services.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Form/RegisterForm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="536">
+              <caret line="97" column="46" selection-start-line="97" selection-start-column="46" selection-end-line="97" selection-end-column="46" />
+              <folding>
+                <element signature="e#48#119#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Services/UserService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+              <folding>
+                <element signature="e#52#93#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$form_state-&gt;setRedirectUrl(</find>
+      <find>fromRoute(</find>
+      <find>fromUserInput(</find>
+      <find>'#type' =&gt; 'password_confirm'</find>
+      <find>entityTypeManager-&gt;getStorage('user')-&gt;create</find>
+      <find>$form_state-&gt;setRedirect(</find>
+      <find>'#type' =&gt; 'textfield'</find>
+      <find>-&gt;login</find>
+      <find>$message['body'][]</find>
+      <find>_mail(</find>
+      <find>mailManager-&gt;mail(</find>
+      <find>implements MailInterface</find>
+      <find>Send()</find>
+      <find>mail(</find>
+      <find>CONFIG_SYNC_DIRECTORY</find>
+      <find>/sync</find>
+      <find>$this-&gt;messenger</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/drupal/web/modules/custom/learnattack-auth/learnattack-auth.info.yml" />
+        <option value="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Controller/LoginController.php" />
+        <option value="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/learnattack_auth.routing.yml" />
+        <option value="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/learnattack_auth.services.yml" />
+        <option value="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/learnattack_auth.module" />
+        <option value="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Services/UserService.php" />
+        <option value="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Form/RegisterForm.php" />
+        <option value="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Form/LoginForm.php" />
+        <option value="$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Plugin/Block/LoginBlock.php" />
+        <option value="$PROJECT_DIR$/drupal/web/sites/default/settings.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="learnattack.local" id="e74a7f7c-a27a-49b0-8cf1-efcac18c01b6" name="learnattack.local" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/drupal/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/drupal/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/drupal/vendor/easyrdf/easyrdf" />
+      <path value="$PROJECT_DIR$/drupal/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/drupal/vendor/pear/pear-core-minimal" />
+      <path value="$PROJECT_DIR$/drupal/vendor/pear/archive_tar" />
+      <path value="$PROJECT_DIR$/drupal/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony-cmf/routing" />
+      <path value="$PROJECT_DIR$/drupal/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/drupal/vendor/pear/console_getopt" />
+      <path value="$PROJECT_DIR$/drupal/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/drupal/vendor/pear/pear_exception" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/drupal/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/drupal/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/drupal/vendor/drupal/core-project-message" />
+      <path value="$PROJECT_DIR$/drupal/vendor/drupal/core-composer-scaffold" />
+      <path value="$PROJECT_DIR$/drupal/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/drupal/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/drupal/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/drupal/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/drupal/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/drupal/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/drupal/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/drupal/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/drupal/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/drupal/vendor/typo3/phar-stream-wrapper" />
+      <path value="$PROJECT_DIR$/drupal/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/drupal/vendor/laminas/laminas-feed" />
+      <path value="$PROJECT_DIR$/drupal/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/drupal/vendor/laminas/laminas-escaper" />
+      <path value="$PROJECT_DIR$/drupal/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/drupal/vendor/laminas/laminas-stdlib" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/class-loader" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/drupal/vendor/stack/builder" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/drupal/vendor/composer" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/drupal/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/drupal/vendor/consolidation/self-update" />
+      <path value="$PROJECT_DIR$/drupal/vendor/consolidation/annotated-command" />
+      <path value="$PROJECT_DIR$/drupal/vendor/consolidation/site-process" />
+      <path value="$PROJECT_DIR$/drupal/vendor/consolidation/robo" />
+      <path value="$PROJECT_DIR$/drupal/vendor/consolidation/config" />
+      <path value="$PROJECT_DIR$/drupal/vendor/consolidation/log" />
+      <path value="$PROJECT_DIR$/drupal/vendor/consolidation/output-formatters" />
+      <path value="$PROJECT_DIR$/drupal/vendor/consolidation/site-alias" />
+      <path value="$PROJECT_DIR$/drupal/vendor/consolidation/filter-via-dot-access-data" />
+      <path value="$PROJECT_DIR$/drupal/vendor/grasmash/expander" />
+      <path value="$PROJECT_DIR$/drupal/vendor/grasmash/yaml-expander" />
+      <path value="$PROJECT_DIR$/drupal/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/drupal/vendor/webmozart/path-util" />
+      <path value="$PROJECT_DIR$/drupal/vendor/webflo/drupal-finder" />
+      <path value="$PROJECT_DIR$/drupal/vendor/league/container" />
+      <path value="$PROJECT_DIR$/drupal/vendor/chi-teck/drupal-code-generator" />
+      <path value="$PROJECT_DIR$/drupal/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/drupal/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/drupal/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/drupal/vendor/drush/drush" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/drupal/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/drupal/vendor/phpmailer/phpmailer" />
+    </include_path>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/learnattack-test-project.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.idea/php.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="Drupal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="Drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="Component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="Drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="Component" type="462c0819:PsiDirectoryNode" />
+              <item name="Plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="Drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="Component" type="462c0819:PsiDirectoryNode" />
+              <item name="Plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="Discovery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="Drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="Block" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bartik" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bartik" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bartik" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="classy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="bartik" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="classy" type="462c0819:PsiDirectoryNode" />
+              <item name="block" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="learnattack_auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="learnattack_auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="learnattack_auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="learnattack_auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="learnattack_auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="Block" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="learnattack_auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnattack-test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnattack-test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="drupal" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../innovad-new-env" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Work\Drupal\Carnelsen\TestProject\learnattack-test-project\drupal\web\modules\custom\learnattack_auth" />
+      <recent name="E:\Work\Drupal\Carnelsen\TestProject\learnattack-test-project\drupal\web\modules\custom" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76ed5c74-8829-4602-822d-bb7d6d90b8e8" name="Default Changelist" comment="" />
+      <created>1634540147163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634540147163</updated>
+      <workItem from="1634540151888" duration="22797000" />
+      <workItem from="1634715653090" duration="230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23504000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20895523" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.094257854" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.40393013" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>\Drupal::request()-&gt;query-&gt;get('auth_code')</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>\Drupal::request()-&gt;query-&gt;get('login_code')</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>\Drupal::request()-&gt;query-&gt;get('nid')</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$arg</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$form_state-&gt;getValue('login_code')</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$form_state</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$form_state['values']</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$form_state['values']['user_code']</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$a-&gt;loadByProperties(['user_code'])</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack-auth/learnattack-auth.info.yml" />
+    <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Controller/LoginController.php" />
+    <entry file="file://$PROJECT_DIR$/drupal/web/core/lib/Drupal/Core/Form/FormBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../innovad-new-env/innovadwebsite/docroot/modules/custom/innovad_login_override/src/Controller/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/core/lib/Drupal/Core/Url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-474">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/learnattack_auth.info.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/core/lib/Drupal/Core/Form/FormSubmitter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/core/lib/Drupal/Core/Action/Plugin/Action/EmailAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="141" column="44" selection-start-line="141" selection-start-column="44" selection-end-line="141" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/core/lib/Drupal/Core/Mail/Plugin/Mail/PhpMail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/modules/contrib/smtp/src/Plugin/Mail/SMTPMailSystem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/core/lib/Drupal/Core/Mail/MailInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-457">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/core/lib/Drupal/Core/Mail/MailManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4964">
+          <caret line="306" selection-start-line="306" selection-end-line="306" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/modules/contrib/smtp/smtp.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/core/lib/Drupal/Core/Mail/MailFormatHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5732">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/core/lib/Drupal/Core/Mail/MailManagerInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Form/LoginForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="81" column="28" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+          <folding>
+            <element signature="e#48#119#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Plugin/Block/LoginBlock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+          <folding>
+            <element signature="e#56#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../RFC/Frico/Repo/new-frico-com/drupal/web/sites/default/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="760" lean-forward="true" selection-start-line="760" selection-end-line="761" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/sites/default/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="807" column="53" selection-start-line="807" selection-start-column="53" selection-end-line="807" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Form/RegisterForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="97" column="46" selection-start-line="97" selection-start-column="46" selection-end-line="97" selection-end-column="46" />
+          <folding>
+            <element signature="e#48#119#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/learnattack_auth.routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/learnattack_auth.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+          <folding>
+            <element signature="e#7#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/learnattack_auth.services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drupal/web/modules/custom/learnattack_auth/src/Services/UserService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding>
+            <element signature="e#52#93#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

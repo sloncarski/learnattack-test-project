@@ -1,0 +1,4 @@
+services:
+  learnattack_auth.user_service:
+    class: Drupal\learnattack_auth\Services\UserService
+    arguments: ['@entity_type.manager', '@plugin.manager.mail']

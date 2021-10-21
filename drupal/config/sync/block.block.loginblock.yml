@@ -1,0 +1,20 @@
+uuid: e66e872d-472e-4326-9431-eeb660a2afc9
+langcode: en
+status: true
+dependencies:
+  module:
+    - learnattack_auth
+  theme:
+    - bartik
+id: loginblock
+theme: bartik
+region: header
+weight: -6
+provider: null
+plugin: login_block
+settings:
+  id: login_block
+  label: 'Login Block'
+  provider: learnattack_auth
+  label_display: '0'
+visibility: {  }

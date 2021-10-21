@@ -1,0 +1,20 @@
+uuid: 9f27f87b-da33-4b9b-902d-8f8af05254a0
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_auth_code
+  module:
+    - user
+id: user.user.field_auth_code
+field_name: field_auth_code
+entity_type: user
+bundle: user
+label: 'Auth Code'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
