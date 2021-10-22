@@ -5,9 +5,7 @@ dependencies:
   config:
     - field.field.user.user.field_auth_code
     - field.field.user.user.user_picture
-    - image.style.thumbnail
   module:
-    - image
     - user
 _core:
   default_config_hash: K-1rBM8mTIkFp9RqOC2tMRUukOQ1xbRCfSKK8dEddnA
@@ -21,35 +19,9 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
-  contact:
-    weight: 4
-    region: content
-    settings: {  }
-    third_party_settings: {  }
-  field_auth_code:
-    weight: 6
-    settings:
-      size: 60
-      placeholder: ''
-    third_party_settings: {  }
-    type: string_textfield
-    region: content
-  language:
-    weight: 3
-    region: content
-    settings: {  }
-    third_party_settings: {  }
-  timezone:
-    weight: 5
-    region: content
-    settings: {  }
-    third_party_settings: {  }
-  user_picture:
-    type: image_image
-    settings:
-      progress_indicator: throbber
-      preview_image_style: thumbnail
-    third_party_settings: {  }
-    weight: 2
-    region: content
-hidden: {  }
+hidden:
+  contact: true
+  field_auth_code: true
+  language: true
+  timezone: true
+  user_picture: true
